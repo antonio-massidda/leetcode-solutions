@@ -1,3 +1,3 @@
 # LeetCode solutions
 
-This is a repository including solutions to exercises I solved on LeetCode in Python.
+This is a repository containing solutions to exercises I solved on [LeetCode](https://leetcode.com/u/antonio_massidda/) in Python.
